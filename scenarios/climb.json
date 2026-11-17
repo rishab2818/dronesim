@@ -1,0 +1,1 @@
+{"schemaVersion":1,"name":"Vertical climb","fixedDtSeconds":0.002,"commands":[{"timeSeconds":0,"armed":true,"collective":0.47},{"timeSeconds":4,"collective":0.3868},{"timeSeconds":7,"armed":false}]}

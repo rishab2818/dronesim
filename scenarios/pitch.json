@@ -1,0 +1,1 @@
+{"schemaVersion":1,"name":"Pitch forward","fixedDtSeconds":0.002,"commands":[{"timeSeconds":0,"armed":true,"collective":0.43},{"timeSeconds":2,"pitchForward":0.25},{"timeSeconds":2.5,"pitchForward":0},{"timeSeconds":5,"armed":false}]}

@@ -1,0 +1,12 @@
+build/
+web/node_modules/
+web/dist/
+*.exe
+*.o
+*.obj
+*.csv
+.DS_Store
+*.tsbuildinfo
+web/vite.config.js
+web/vite.config.d.ts
+

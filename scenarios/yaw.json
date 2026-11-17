@@ -1,0 +1,1 @@
+{"schemaVersion":1,"name":"Yaw spin","fixedDtSeconds":0.002,"commands":[{"timeSeconds":0,"armed":true,"collective":0.40},{"timeSeconds":2,"yaw":0.4},{"timeSeconds":4,"yaw":0},{"timeSeconds":6,"armed":false}]}

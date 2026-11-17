@@ -1,0 +1,2 @@
+{"schemaVersion":1,"name":"Crash test","fixedDtSeconds":0.002,"commands":[{"timeSeconds":0,"armed":true,"collective":0.62,"roll":0.8},{"timeSeconds":2.5,"collective":0},{"timeSeconds":8,"armed":false}]}
+
